@@ -7,12 +7,14 @@ Here is the information we presented and discussed during the meetup in Moscow o
 [The slides for this talk are available on here](https://github.com/franktatjana/events/blob/master/Moscow102019/meetup17102019ShowMeYourElastic.pdf).
 
 Here are discussed and/or recommended links and ressources
-* Igor and Mayya
+Igor and Mayya
+
 [BLOG Engineering Uber Predictions in Real Time with ELK](https://eng.uber.com/elk/)
 
 [BLOG Geosharded Recommendations Part 1: Sharding Approach](https://medium.com/tinder-engineering/geosharded-recommendations-part-1-sharding-approach-d5d54e0ec77a)
 
-* Tatjana
+Tatjana
+
 [WEBINAR Elasticsearch sizing and capacity planning](https://www.elastic.co/webinars/elasticsearch-sizing-and-capacity-planning)
 
 [BLOG Creating frozen indices with the elasticsearch freeze index API](https://www.elastic.co/blog/creating-frozen-indices-with-the-elasticsearch-freeze-index-api)
