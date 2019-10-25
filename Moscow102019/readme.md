@@ -8,20 +8,16 @@ Here is the information we presented and discussed during the meetup in Moscow o
 
 Here are discussed and/or recommended links and ressources
 * Igor and Mayya
-[BLOG Engineering Uber Predictions in Real Time with ELK] (https://eng.uber.com/elk/)
+[BLOG Engineering Uber Predictions in Real Time with ELK](https://eng.uber.com/elk/)
 
-[BLOG Geosharded Recommendations Part 1: Sharding Approach] 
-(https://medium.com/tinder-engineering/geosharded-recommendations-part-1-sharding-approach-d5d54e0ec77a)
+[BLOG Geosharded Recommendations Part 1: Sharding Approach](https://medium.com/tinder-engineering/geosharded-recommendations-part-1-sharding-approach-d5d54e0ec77a)
 
 * Tatjana
-[WEBINAR Elasticsearch sizing and capacity planning] 
-(https://www.elastic.co/webinars/elasticsearch-sizing-and-capacity-planning)
+[WEBINAR Elasticsearch sizing and capacity planning](https://www.elastic.co/webinars/elasticsearch-sizing-and-capacity-planning)
 
-[BLOG Creating frozen indices with the elasticsearch freeze index API] 
-(https://www.elastic.co/blog/creating-frozen-indices-with-the-elasticsearch-freeze-index-api)
+[BLOG Creating frozen indices with the elasticsearch freeze index API](https://www.elastic.co/blog/creating-frozen-indices-with-the-elasticsearch-freeze-index-api)
 
-[BLOG Implementing hot-warm-cold in elasticsearch with index lifecycle management] 
-(https://www.elastic.co/blog/implementing-hot-warm-cold-in-elasticsearch-with-index-lifecycle-management)
+[BLOG Implementing hot-warm-cold in elasticsearch with index lifecycle management](https://www.elastic.co/blog/implementing-hot-warm-cold-in-elasticsearch-with-index-lifecycle-management)
 
 
 Here is the survey we made during the meetup in Moscow on 17.10.2019
